@@ -27,10 +27,10 @@ Here are the notes from the talk [Sean](https://twitter.com/seanyo) and [I](http
 * Use [Circles and Soup](http://www.innovationgames.com/circles-and-soup/)
 
 ###Too Many Ideas!
-* Affinity Map
-  * 2x2 grid
-  * effort - payoff
-  * high effort - high payoff > talk to stakeholders
+* Try using an [Affinity Map](http://asq.org/learn-about-quality/idea-creation-tools/overview/affinity.html)
+* Or try a 2x2 decision matrix
+  * Using effort verses payoff
+  * Things that are low effort and high payoff should be tackled first
 
 ###New People Don’t Talk
 * Senior team members have lots to say and new members are quiet and don’t contribute
