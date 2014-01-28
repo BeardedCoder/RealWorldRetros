@@ -1,4 +1,51 @@
-RealWorldRetros
+Real World Retrospectives Notes
 ===============
 
-Notes from Real World Retrospectives presentation at Agile Peer2Peer Group
+Here are the notes from the talk [Sean](https://twitter.com/seanyo) and [I](https://twitter.com/beardedcoder) gave at the Agile/Lean P2P Group on January 28th.
+
+## Real World Retro Techniques
+ 
+###Dominant Speaker
+* Try [dot voting](http://martinfowler.com/bliki/DotVoting.html) to select a topic 
+* Then use small group work with the goal of each group creating an actionable item to report back.
+* Or try questions like *What other ideas haven't we heard yet?*
+
+###Leader stifles conversation
+* You can try having a leadership-free retro
+* As the scrum master you can *be a mirror* and provide feedback to the manager
+
+###Quiet People
+* Use Post-it notes to get contributions from everyone
+* At the start of retro have everyone describes the sprint with one word
+  * Research shows that people who speak early are more likely to contribute to the meeting 
+
+###Negative Retro
+* Have a [Positive (or Appreciative) Retrospective](http://retrospectivewiki.org/index.php?title=Appreciative_Retrospective) where you don't allow negative talk
+  * And not “we’re really awesome at sucking”
+* Try asking the question “what can we do to change this situation” 
+* Ask people to replace the word **can't** with the phrase **I could do that, if ...**
+* Use [Circles and Soup](http://www.innovationgames.com/circles-and-soup/)
+
+###Too Many Ideas!
+* Affinity Map
+  * 2x2 grid
+  * effort - payoff
+  * high effort - high payoff > talk to stakeholders
+
+###New People Don’t Talk
+* Senior team members have lots to say and new members are quiet and don’t contribute
+* Call out that all opinions are valid at beginning
+* You can try directly asking people for their thoughts
+  * If you are attentive, you can see when people *wish* they could speak
+* Using Post-it notes and small groups works well here
+
+###Story Time Retro (all talk...no walk)
+* At the start state that the goal is to leave with 1 actionable item for next sprint
+
+## An Awesome Retro Example (that we've done before)
+1. Start by having the team create a list of possible topics
+2. Provide a few minutes for clarifications
+3. The team [dot votes](http://martinfowler.com/bliki/DotVoting.html) to select the items they want to discuss
+4. Use [Lean Coffee](http://www.rallydev.com/community/agile/lean-coffee-staff-meetings) as the discussion model
+5. The Scrum Master listens and intervenes to identify actionable items and directs a thumb vote
+  * Thumbs up means *I agree*, sideways means *I have an amendment*, down means *Disagree, but have a counter-proposal*
