@@ -3,6 +3,8 @@ Real World Retrospectives Notes
 
 Here are the notes from the talk [Sean](https://twitter.com/seanyo) and [I](https://twitter.com/beardedcoder) gave at the Agile/Lean P2P Group on January 28th.
 
+The slides can be viewed on [SlideShare](http://www.slideshare.net/mbcampbell360/real-world-retrospectives).
+
 ## Real World Retro Techniques
  
 ###Dominant Speaker
