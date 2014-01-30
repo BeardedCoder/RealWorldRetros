@@ -44,6 +44,15 @@ The slides can be viewed on [SlideShare](http://www.slideshare.net/mbcampbell360
 ###Story Time Retro (all talk...no walk)
 * At the start state that the goal is to leave with 1 actionable item for next sprint
 
+## Other Ideas
+
+###de Bono's 6 Thinking Hats
+
+* [Wikipedia Article](http://en.wikipedia.org/wiki/Six_Thinking_Hats)
+* A couple of retrospective plans using the 6 Thinking Hats
+  * [Rob Bowley - 6 Thinking Hats Retrospective Plan](http://blog.robbowley.net/2009/08/29/6-thinking-hats-retrospective-plan/)
+  * [Agility Personified - Retrospective Using Six Thinking Hats Technique](http://agilecruiser.blogspot.ca/2009/11/retrospective-using-six-thinking-hats.html)
+
 ## An Awesome Retro Example (that we've done before)
 1. Start by having the team create a list of possible topics
 2. Provide a few minutes for clarifications
