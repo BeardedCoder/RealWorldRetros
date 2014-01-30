@@ -44,7 +44,11 @@ The slides can be viewed on [SlideShare](http://www.slideshare.net/mbcampbell360
 ###Story Time Retro (all talk...no walk)
 * At the start state that the goal is to leave with 1 actionable item for next sprint
 
-## Other Ideas
+## Other Ideas and Resources
+
+###Retr-o-Mat
+
+This is a great [site](http://www.plans-for-retrospectives.com/) that helps you plan your next retrospective (I'm not even going to try to describe it, just check it out)
 
 ###de Bono's 6 Thinking Hats
 
