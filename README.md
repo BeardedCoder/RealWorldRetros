@@ -57,6 +57,10 @@ This is a great [site](http://www.plans-for-retrospectives.com/) that helps you 
   * [Rob Bowley - 6 Thinking Hats Retrospective Plan](http://blog.robbowley.net/2009/08/29/6-thinking-hats-retrospective-plan/)
   * [Agility Personified - Retrospective Using Six Thinking Hats Technique](http://agilecruiser.blogspot.ca/2009/11/retrospective-using-six-thinking-hats.html)
 
+###Getting Value out of Agile Retrospectives
+
+An excellent book that contains many ideas and tools for use in your retrospectives ([download](https://leanpub.com/gettingvalueoutofagileretrospectives))
+
 ## An Awesome Retro Example (that we've done before)
 1. Start by having the team create a list of possible topics
 2. Provide a few minutes for clarifications
