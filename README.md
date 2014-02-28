@@ -6,7 +6,8 @@ Here are the notes from the talk [Sean](https://twitter.com/seanyo) and [I](http
 Sean also gave this talk at [ConFoo] (http://confoo.ca/en/2014/session/real-world-retrospectives) on February 28th, 2014. Notes need to be updated for additional content presented at ConFoo. 
 
 January 28th slides can be viewed on [SlideShare](http://www.slideshare.net/mbcampbell360/real-world-retrospectives).
-Febrayr 28th slides can be viewed on [SpeakerDeck] (https://speakerdeck.com/seanyo/real-world-retrospectives) and on [SlideShare] (http://www.slideshare.net/seanyo/rwr-con-foov1)
+February 28th slides can be viewed on [SpeakerDeck] (https://speakerdeck.com/seanyo/real-world-retrospectives) and on [SlideShare] (http://www.slideshare.net/seanyo/rwr-con-foov1)
+
 ## Real World Retro Techniques
  
 ###Dominant Speaker
