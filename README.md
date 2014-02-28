@@ -1,7 +1,9 @@
 Real World Retrospectives Notes
 ===============
 
-Here are the notes from the talk [Sean](https://twitter.com/seanyo) and [I](https://twitter.com/beardedcoder) gave at the Agile/Lean P2P Group on January 28th.
+Here are the notes from the talk [Sean](https://twitter.com/seanyo) and [I](https://twitter.com/beardedcoder) gave at the Agile/Lean P2P Group on January 28th 2014.
+
+Sean also gave this talk at [ConFoo] (http://confoo.ca/en/2014/session/real-world-retrospectives) on February 28th, 2014. Notes need to be updated for additional content presented at ConFoo. 
 
 The slides can be viewed on [SlideShare](http://www.slideshare.net/mbcampbell360/real-world-retrospectives).
 
