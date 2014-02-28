@@ -3,10 +3,10 @@ Real World Retrospectives Notes
 
 Here are the notes from the talk [Sean](https://twitter.com/seanyo) and [I](https://twitter.com/beardedcoder) gave at the Agile/Lean P2P Group on January 28th 2014.
 
-Sean also gave this talk at [ConFoo] (http://confoo.ca/en/2014/session/real-world-retrospectives) on February 28th, 2014. Notes need to be updated for additional content presented at ConFoo. 
+Sean also gave this talk at [ConFoo] (http://confoo.ca/en/2014/session/real-world-retrospectives) on February 28th, 2014
 
-January 28th slides can be viewed on [SlideShare](http://www.slideshare.net/mbcampbell360/real-world-retrospectives).
-February 28th slides can be viewed on [SpeakerDeck](https://speakerdeck.com/seanyo/real-world-retrospectives) and on [SlideShare](http://www.slideshare.net/seanyo/rwr-con-foov1)
+January 28th slides can be viewed on [SlideShare](http://www.slideshare.net/mbcampbell360/real-world-retrospectives). [Notes as of that presentation](https://github.com/BeardedCoder/RealWorldRetros/blob/717d918b89e89ff6915e44f3357a62d52a4830d2/README.md)
+February 28th slides can be viewed on [SpeakerDeck](https://speakerdeck.com/seanyo/real-world-retrospectives) and on [SlideShare](http://www.slideshare.net/seanyo/rwr-con-foov1). Current notes found below are latest. 
 
 ## Real World Retro Presentation Notes 
 
